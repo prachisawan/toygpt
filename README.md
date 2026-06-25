@@ -110,10 +110,22 @@ Launch the interactive shell to prime the model:
 python interactive_demo.py
 ```
 
-Provide a prompt to watch the model autocomplete the narrative rhythm of the dataset:
+Provide a prompt to watch the model autocomplete the narrative rhythm of the dataset.
+
+**Hindi Prompt Example:**
 ```text
 Prompt: मेरे प्यारे देशवासियों
-Output: मेरे प्यारे देशवासियों, आज हमारे देश में स्वच्छता एक स्वभाव बन गया है। इस आंदोलन ने नागरिकों के संकल्प को एक नई ऊर्जा दी है। खेल के मैदान से लेकर विज्ञान के क्षेत्र तक, हमारे युवा लगातार नए कीर्तिमान स्थापित कर रहे हैं...
+Output: मेरे प्यारे देशवासियों से जुड़े हुए हमने अपनी पूर्विंद्रासत के प्रति परिवार का नाम किया है, कितने ही हमारी सदियों पर बना सकता है। अब केंद्र बन गया है और इसलिए उस परिस्थिति में बाहर आता है और इसलिए आज हम सब करते हैं कि इन च...
+```
+
+**English Prompt Example:**
+```text
+Prompt: My dear countrymen
+Output: My dear countrymen.
+We can also provide a strong personal and participate in economic partnership.
+Members of the Union Cabinet has given in the world are promised strategic and prosperity.
+Friends,
+The Union Cabinet c...
 ```
 
 > [!NOTE]
