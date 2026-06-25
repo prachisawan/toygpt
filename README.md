@@ -21,27 +21,27 @@ The model is a decoder-only transformer with causal self-attention. Below is the
 
 ```mermaid
 graph TD
-    Input([Raw Character Input]) --> TokenEmb[Token Embedding Table]
-    Input --> PosEmb[Position Embedding Table]
+    Input(["Raw Character Input"]) --> TokenEmb["Token Embedding Table"]
+    Input --> PosEmb["Position Embedding Table"]
     
-    TokenEmb --> Add[+]
+    TokenEmb --> Add["+"]
     PosEmb --> Add
     
     subgraph Block ["Transformer Blocks (6x Stacked)"]
-        Add --> LN1[LayerNorm 1]
-        LN1 --> MHA[Causal Multi-Head Attention<br>8 Heads | 32-dim each]
-        MHA --> Add1[+]
+        Add --> LN1["LayerNorm 1"]
+        LN1 --> MHA["Causal Multi-Head Attention<br>8 Heads | 32-dim each"]
+        MHA --> Add1["+"]
         Add --> Add1
         
-        Add1 --> LN2[LayerNorm 2]
-        LN2 --> FFN[FeedForward Network<br>Linear -> ReLU -> Linear]
-        FFN --> Add2[+]
+        Add1 --> LN2["LayerNorm 2"]
+        LN2 --> FFN["FeedForward Network<br>Linear -> ReLU -> Linear"]
+        FFN --> Add2["+"]
         Add1 --> Add2
     end
     
-    Add2 --> LN_F[Final LayerNorm]
-    LN_F --> LM_Head[Linear Decoder Head]
-    LM_Head --> Output([Next Character Probability])
+    Add2 --> LN_F["Final LayerNorm"]
+    LN_F --> LM_Head["Linear Decoder Head"]
+    LM_Head --> Output(["Next Character Probability"])
 ```
 
 ---
