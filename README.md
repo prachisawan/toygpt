@@ -1,4 +1,4 @@
-# 🤖 toy-gpt
+# toy-gpt
 
 <p align="center">
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" />
@@ -13,7 +13,7 @@ This repository is designed to be completely transparent and easily hackable. Th
 
 As a case study, the model provided here is a **5.22M parameter Small Language Model (SLM)** trained entirely on the text corpus of the *Mann Ki Baat* radio broadcasts. It learns to read and generate alternating English and Hindi/Devanagari text purely from raw character sequences.
 
-## 🏗️ Architecture
+## Architecture
 
 The model is a decoder-only transformer with causal self-attention. Below is the block-level data flow of the architecture:
 
@@ -44,7 +44,7 @@ graph TD
 
 ---
 
-## ⚙️ Model Configuration & Budget
+## Model Configuration & Budget
 
 To run this comfortably on consumer hardware (like an Apple Silicon MacBook), the configuration is constrained to a tight budget:
 
@@ -66,7 +66,7 @@ n_layer    = 6
 
 ---
 
-## 🧠 Why Character-Level?
+## Why Character-Level?
 
 Modern production LLMs use Byte-Pair Encoding (BPE) or sub-word tokenizers to compress language. While efficient, it hides the actual text mechanics. 
 
@@ -74,9 +74,9 @@ By training directly on raw characters, the network starts with zero knowledge o
 
 ---
 
-## 📈 Training Log & Lessons Learned
+## Training Log & Lessons Learned
 
-### 📊 Loss Progression
+### Loss Progression
 | Step | Training Loss | Milestone |
 | :--- | :---: | :--- |
 | `0` | `4.32` | Random initialization |
@@ -90,7 +90,7 @@ By training directly on raw characters, the network starts with zero knowledge o
 
 ---
 
-## 🎛️ The Sampling Problem (and the Fix)
+## The Sampling Problem (and the Fix)
 
 If you use vanilla softmax sampling on a character model, the outputs quickly dissolve into a chaotic mess. 
 

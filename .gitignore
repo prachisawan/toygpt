@@ -1,3 +1,5 @@
 venv/
 .DS_Store
 interactive
+test_mac.py
+demo.py
