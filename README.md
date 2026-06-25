@@ -18,7 +18,7 @@ As a case study, the model provided here is a **5.22M parameter Small Language M
 The model is a decoder-only transformer with causal self-attention. Below is the block-level data flow of the architecture:
 
 ```mermaid
-graph TD
+graph LR
     Input(["Raw Character Input"]) --> TokenEmb["Token Embedding Table"]
     Input --> PosEmb["Position Embedding Table"]
     
@@ -120,12 +120,9 @@ Output: मेरे प्यारे देशवासियों से �
 
 **English Prompt Example:**
 ```text
-Prompt: My dear countrymen
-Output: My dear countrymen.
-We can also provide a strong personal and participate in economic partnership.
-Members of the Union Cabinet has given in the world are promised strategic and prosperity.
-Friends,
-The Union Cabinet c...
+Prompt: friends
+Output: friendship between Indian and Finance of Assistance (IRC) share the strategic partner in the country.
+Today, we will take the strong countries to intericate investment in areas of all of information to the e...
 ```
 
 > [!NOTE]
