@@ -13,8 +13,6 @@ This repository is designed to be completely transparent and easily hackable. Th
 
 As a case study, the model provided here is a **5.22M parameter Small Language Model (SLM)** trained entirely on the text corpus of the *Mann Ki Baat* radio broadcasts. It learns to read and generate alternating English and Hindi/Devanagari text purely from raw character sequences.
 
----
-
 ## 🏗️ Architecture
 
 The model is a decoder-only transformer with causal self-attention. Below is the block-level data flow of the architecture:
