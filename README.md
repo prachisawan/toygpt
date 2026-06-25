@@ -76,15 +76,6 @@ By training directly on raw characters, the network starts with zero knowledge o
 
 ## Training Log & Lessons Learned
 
-### Loss Progression
-| Step | Training Loss | Milestone |
-| :--- | :---: | :--- |
-| `0` | `4.32` | Random initialization |
-| `1,000` | `2.15` | Model begins clustering common words |
-| `3,000` | `1.54` | Spelling of English/Hindi words starts forming |
-| `5,000` | `1.28` | Local syntax and punctuation mastered |
-| `8,000` | `1.10` | Final convergence; stable bilingual generation |
-
 1. **The spelling tax:** In early iterations, I experimented with a tiny footprint (`block_size = 64`, `n_embd = 128`). The cross-entropy loss aggressively flattened out around 1.38. Because the vocabulary spans both Latin characters and the Devanagari script, a massive chunk of the network's capacity was burned entirely on learning word boundaries and spelling. It didn't have enough residual "brain capacity" left to learn grammar, resulting in phonetically sound but completely hallucinated words.
 2. **Scaling the workspace:** To give the model structural breathing room, I scaled up to the current 6-layer configuration and pushed it through an 8,000-step optimization loop using the `mps` backend (Apple Silicon GPU acceleration). The loss successfully plummeted to a stable 1.10, signaling that the model had completely mastered spelling and was beginning to map vocabulary distribution.
 
