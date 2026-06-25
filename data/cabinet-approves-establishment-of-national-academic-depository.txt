@@ -1,0 +1,13 @@
+The Union Cabinet under the Chairmanship of Prime Minister Shri Narendra Modi has accorded its approval for establishment and operationalisation of a National Academic Depository (NAD).
+The decision aims at bringing another dimension and enhancement of the vision of Digital India.
+The NAD would be established and operationalised within the next three months and would be rolled out throughout the country in 2017-18.
+The Finance Minister’s Budget Speech of 2016-17, in February this year, incorporated this commitment to establish a Digital Depository for school learning certificates, degrees and other academic awards of Higher Education Institutions, on the pattern of a Securities Depository.
+The NAD would be operationalised by NSDL Database Management Limited (NDML) and CDSL Ventures, Limited (CVL) – two of the wholly owned subsidiaries of the Depositories registered under Securities Exchange Board of India (SEBI) Act, 1992.
+Academic institutions would be responsible for the authenticity of data digitally uploaded by them into the system.
+The depositories will ensure the integrity of the data in the NAD.
+The NAD will register educational institutions/boards/eligibility assessment bodies, students and other users/verifying entities like banks, employer companies, government agencies and academic institutions.
+It will provide digital or a printed copy of the academic award with security features to the students or other authorized users.
+NAD will verify academic awards online on the same day of request initiated by any authorized user.
+Requests for access to academic awards, for example, from potential employers, and academic institutions would be only on the basis of consent of the student.
+NAD shall maintain the authenticity, integrity and confidentiality of its database.
+It will also train and facilitate academic institutions/boards/ eligibility assessment bodies to efficiently lodge academic awards in the database.

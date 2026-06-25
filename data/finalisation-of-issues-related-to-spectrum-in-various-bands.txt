@@ -1,0 +1,31 @@
+The Union Cabinet, chaired by the Prime Minister Shri Narendra Modi, has approved the proposal of the Department of Telecom to proceed with auction in 800, 900 & 1800 MHz bands.
+The Reserve price approved is Rs. 3646 Cr pan-India per MHZ in 800 MHz, Rs. 3980 Cr. for 900 MHz band pan India excluding Delhi, Mumbai, Kolkatta, and J&K; Rs. 2191 cr pan India (excluding Maharashtra and West Bengal) in 1800 MHz band
+The quantum of spectrum to be put to auction is 103.75 MHz in 800 MHz band in all service areas, 177.8 MHz in 17 LSAs in 900 MHz band and 99.2 MHz in 15 LSAs in 1800 MHz band.
+Thus a total of 380.75 MHz in 800,900 & 1800 MHz is being put to auction.
+Payment terms, eligibility criteria and auction objectives shall be as in the previous auction of Feb 2014.
+(Salient conditions given in the Annexure)
+Cabinet also decided that intent to put 2100 MHz to simultaneous auction may be announced along with auction of other bands.
+Details of this will be announced later on.
+The estimated revenues from this auction are Rs. 64840 cr (excluding 2100 MHz spectrum) of which Rs. 16000 cr is expected to be realized in the current financial year.
+Annexure
+Objectives of the Auction:
+The Government has set itself the following objectives for the Auctions:
+* Obtain a market determined price of Spectrum in various bands through a transparent process;
+* Ensure efficient use of spectrum and avoid hoarding;
+* Stimulate competition in the sector;
+* Promote rollout of the respective services;
+* Maximise revenue proceeds from the Auctions within the set parameters.
+Eligibility Criterion:
+(i) Any licensee that holds a UAS/ CMTS/ UL(AS)/UL licence with authorization for Access Services for that Service Area; or
+(ii) Any licensee that fulfils the eligibility for obtaining a Unified License with authorization for Access Services; or
+(iii) Any entity that gives an undertaking to obtain a Unified License for access service authorisation through a New Entrant Nominee as per the DoT guidelines/licence conditions.
+Can bid for the Spectrum (subject to other provisions of the Notice).
+Payment Terms:
+Successful Bidders shall make the payment in any of the following two options:
+(a) Full upfront payment within 10 days of declaration of final price or pre-payment of one or more annual installments; or
+(b) Deferred payment, subject to the following conditions:
+(i) An upfront payment; of 33% in the case of 1800MHz band, and 25% in case of 900MHz and 800 MHz; of the final bid amount shall be made within 10 days of declaration of successful bidders and final price;
+(ii) There shall be a moratorium of 2 years for payment of balance amount of one time charges for the spectrum, which shall be recovered in 10 equal annual installments.
+(iii) The 1st installment of the balance due shall become due on the third anniversary of the scheduled date of the first payment.
+Subsequent installment shall become due on the same date of each following year.
+Prepayment of one or more installments will be allowed on each annual anniversary date of the first upfront payment, based upon the principle that the Net Present Value of the payment is protected.

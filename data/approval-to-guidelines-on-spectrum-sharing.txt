@@ -1,0 +1,37 @@
+Fulfilling the Government’s commitment to improve spectral efficiency and quality of service, which is very essential to fulfill the dream of Digital India, the Union Cabinet chaired by the Prime Minister, Shri Narendra Modi, today gave its approval to the guidelines on spectrum sharing, arising from the recommendations of the Telecom Regulatory Authority of India (TRAI).
+The salient features of the norms for spectrum sharing, among other things, shall include:-
+a) Spectrum sharing would be allowed only for the access service providers in the first instance in a Licensed Service Area (LSA), where both the licensees are having spectrum in the same band.
+Leasing of spectrum will not be permitted.
+For the purpose of charging Spectrum Usage Charges (SUC), licensees shall be considered as sharing their entire spectrum holding in the particular band in the entire LSA.
+b) All access spectrum including traded spectrum will be sharable provided that both licensees are having spectrum in the same band.
+c) The right to share spectrum shall be subject to fulfilment of relevant license conditions and any other conditions that may be specified by the licensor/Government from time to time.
+d) A licensee shall not be eligible to share its spectrum, if it has been established that it is in breach of terms and conditions of the licence, and the licensor has ordered for revocation/termination of its licence.
+e) Sharing may be permitted in the following scenarios:-
+(i). where both sharing entities possess spectrum for which market price has been paid with clarification in respect of spectrum in 800 MHz acquired in the auction held in March 2013, sharing of spectrum shall be permitted only if differential of latest auction price and March 2013 auction price on pro-rata basis on the balance period of right to use the spectrum is paid.
+(ii). where both sharing entities are having administratively allotted spectrum.
+(iii). where one sharing entity has spectrum acquired through auction or liberalized spectrum and the other has spectrum allotted administratively, sharing shall be permitted only after spectrum charges for liberalizing the administratively allocated spectrum are paid.
+f) The use of technology shall be governed by the terms and conditions of respective Notice Inviting Application (NIA)/license.
+g) Both licensees will be individually and collectively responsible for complying with sharing guidelines, including interference norms.
+h) Spectrum sharing will be restricted to sharing by only two licensees subject to the condition that there will be at least two independent networks provided in the same band.
+i) Spectrum Usage Charges (SUC) rate of each of the licensees post-sharing shall increase by 0.5 percent of Aggregate Gross Revenue (AGR).
+j) The prescribed limits for spectrum cap shall be applicable for both licensees individually.
+Further, spectrum holding of any licensee post-sharing shall be counted after adding 50 percent of the spectrum held by the other licensee in the band being shared, being added as additional spectrum to the original spectrum, held by the licensee in the band.
+Guided by the principle of “ease of doing business”, the Cabinet also decided that both licensees sharing the spectrum shall jointly give a prior intimation for sharing the right to use the spectrum at least 45 days before the proposed effective date of the sharing.
+Both the licensees shall also give an undertaking that they are in compliance with all terms and conditions of the guidelines for spectrum sharing and licence conditions, and will agree that in the event it is established at any stage in the future, that either of the licensee was not in conformance with the terms and conditions of the guidelines for spectrum sharing or/and of the licence, at the time of giving intimation for sharing of right to use the spectrum, the Government will have the right to take appropriate action which among other things may include annulment of sharing arrangement.
+A processing fee, of Rs. 50,000/- which could be modified from time to time, shall be payable individually by each licensee for each service area at the time of intimation.
+Background:-
+Historically, in most countries, the Government used to decide the procedure for allocation of spectrum.
+The telecom sector being a capital intensive sector, normally such assignments are made for a long period.
+In the last decade, a number of countries have adopted the market mechanism for spectrum assignment.
+In India spectrum assignment, earlier by and large through administrative allocation procedure and from 2010 onwards through auction process, is made for a period of 20 years.
+During this period of 20 years, some operators are able to acquire subscribers and grow at a faster rate as compared to other operators.
+This results in spectrum lying unutilised with some of the players, while other operators face spectrum crunch as spectrum is a scare resource.
+Thus, on the one hand spectrum, which is a limited natural resource, remains unutilised while on the other hand consumers suffer due to poor quality of services on account of spectrum crunch with other service providers.
+Moreover, spectrum is allocated to a service provider for a service area which is a large geographical area, normally co-terminus with State boundaries.
+In different cities and rural areas, service providers may have varying spectrum needs depending upon their customer profile.
+Spectrum sharing allows operators to pool their respective spectrum for usage in a specific geographical area and thus complementing each other’s needs and ensuring more efficient utilisation of the spectrum.
+Moreover, the pooling of the spectrum increases spectrum efficiency for both operators, as capacity to carry telecom traffic is not in linear proportion to the sum of their spectrum holding, but is much larger than the sum of the traffic capacities of individual service provider.
+TRAI has observed that gain in spectral efficiency increases non-linearly with the quantum of spectrum.
+This, therefore, facilitates optimisation of resources and also creates a conducive environment for telecom growth.
+In November, 2012, the then Government approved the principle of sharing the spectrum, but detailed guidelines were not issued, and the policy could not be implemented.
+The issue was under active consideration of the present Government as this arrangement helps optimize resources and increases traffic capacity, which is beneficial for ensuring quality of service.

@@ -1,0 +1,36 @@
+The Union Cabinet, chaired by Prime Minister Shri Narendra Modi, in a major decision, has decided to accept the order of the High Court of Bombay in the case of Vodafone India Services Private Limited (VISPL) dated 10.10.2014.
+This is a major correction of a tax matter which has adversely affected investor sentiment.
+Based on the opinion of Chief Commissioner of Income-tax (International Taxation), Chairperson (CBDT) and the Attorney General of India, the Cabinet decided to:
+i. accept the order of the High Court of Bombay in WP No. 871 of 2014, dated 10.10.2014; and not to file SLP against it before the Supreme Court of India;
+ii. accept of orders of Courts/ IT AT/ DRP in cases of other taxpayers where similar transfer pricing adjustments have been made and the Courts/ IT AT/ DRP have decided/decide in favour of the taxpayer.
+The Cabinet decision will bring greater clarity and predictability for taxpayers as well as tax authorities, thereby facilitating tax compliance and reducing litigation on similar issues.
+This will also set at rest the uncertainty prevailing in the minds of foreign investors and taxpayers in respect of possible transfer pricing adjustments in India on transactions related to issuance of shares, and thereby improve the investment climate in the country.
+The Cabinet came to this view as this is a transaction on the capital account and there is no income to be chargeable to tax.
+So applying any pricing formula is irrelevant.
+VISPL is a wholly owned subsidiary of a non-resident company, Vodafone Tele-Services (India) Holdings Limited, Mauritius.
+On 21.8.2008, VISPL issued shares (at a premium of Rs.8509/-) which resulted in VISPL receiving a total consideration of Rs.246.39 crore from Vodafone Mauritius, on issue of shares and this was shown as “Capital Receipts” in the books of accounts.
+VISPL reported this transaction as an “International Transaction” and stated that this transaction does not affect its income.
+The Transfer Pricing Officer (TPO), vide order dated 28.01.2013, determined the Arm’s Length Price of the shares issued by VISPL on the basis of Net Asset Value, at Rs.53,775/- per share and made an upward adjustment of Rs.1,308.91 crore.
+In addition, the difference Rs.1,308.91 crore between the transaction price and the Arm`s Length Price was treated as `deemed loan` given by VISPL to the holding company; and interest that would have been payable on the loan in an arm`s length transaction was computed at Rs.88.35 crore.
+In total, transfer pricing adjustment of Rs.1,397.26 crore was proposed by the TPO for Assessment Year 2009-10.
+The matter was agitated by VISPL at the stage of Draft AO itself and therefore the tax payable could not be crystallized.
+However, the tax rate of 33 percent was applicable for Assessment Year 2009-10.
+The DRP, on 11.2.2014, held that the premium determined by the TPO, to the extent not received, is an income arising from issue of shares, and that the AO and the TPO have jurisdiction.
+VISPL filed a 2nd Writ Petition in the High Court of Bombay.
+The High Court, on 10.10.2014, has amongst other things observed:
+a) “Section 92(2) of the Act deals with a situation where two or more AEs enter into an arrangement whereby they receive a benefit, service or facility then the allocation, apportionment or contribution towards the cost or expenditure is to be determined in respect of each AE having regard to ALP.
+It would have no application in the cases like the present one, where there is no occasion to, allocate, apportion or contribute any cost and/ or expenses between the Petitioner and the holding company.”
+b) The crucial words “shall be chargeable to income tax” which are found in Section 42(2) of the 1922 Act are absent in Chapter X of the Act…..
+Therefore it is clear that the deemed income which was charged to tax under Section 42(2) of 1922 Act was done away with under this Act.”
+c) The tax can be charged only on income and in the absence of any income arising, the issue of applying the measure of Arm`s Length Pricing to transactional value/ consideration itself does not arise.”
+d) If its income which is chargeable to tax, under the normal provisions of the Act, then alone Chapter X of the Act could be invoked.
+Sections 4 and 5 of the Act brings /charges to tax total income of the previous year.
+This would take us to the meaning of the word income under the Act as defined in Section 2 (24) of the Act.
+The amount received on issue of shares is admittedly a capital account transaction not separately brought within the definition of Income, except in cases covered by Section 56(2)(viib) of the Act.
+Thus such capital account cannot be brought to tax as already discussed herein above while considering the challenge to the grounds as mentioned in impugned order.”
+e) The issue of shares at a premium is on Capital account and gives rise to no income.
+The submission on behalf of the revenue that the shortfall in the ALP as computed for the purposes of Chapter X of the Act is misplaced.
+The ALP is meant to determine the real value of the transaction entered into between AEs.
+It is a re-computation exercise to be carried out only when income arises in case of an International transaction between AEs.
+It does not warrant re-computation of a consideration received / given on capital account.
+The Bombay High Court quashed the reference dated 11.7.2011 by the AO to the TPO, order dated 28.1.2013 of the TPO, draft AO dated 22.3.2013 of the AO and order dated 11.2.2014 of the DRP on the preliminary issue of jurisdiction to tax, setting them aside as being without jurisdiction, null and void.

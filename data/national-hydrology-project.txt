@@ -1,0 +1,35 @@
+The Union Cabinet chaired by the Prime Minister Shri Narendra Modi has given its approval to Implementation of the National Hydrology Project.
+It will be a central sector scheme with a total outlay of Rs. 3679.7674 crore.
+This includes Rs.3,640 crore for National Hydrology Project (NHP) and Rs. 39.7674 crore for National Water Informatics Centre (NWIC) to be taken up in two stages.
+It also provides for establishment of NWIC as an independent organization under the control of Ministry of Water Resources, River Development and Ganga Rejuvenation (MoWR, RD&GR).
+The NHP will help in gathering Hydro-meteorological data which will be stored and analysed on a real time basis and can be seamlessly accessed by any user at the State/District/village level.
+The project envisages to cover the entire country as the earlier hydrology projects covered only 13 States.
+The components of the proposal are: a) In Situ Hydromet Monitoring System and Hydromet Data Acquisition System. b) Setting up of National Water Informatics Centre (NWIC). c) Water Resources Operation and Management System d) Water Resources Institutions and Capacity Building
+The NHP will result in the improvement of:
+1. Data storage, exchange, analysis and dissemination through National Water Informatics Centre.
+2. Lead time in flood forecast from 1 day to at least 3 days 3.
+Mapping of flood inundation areas for use by the disaster management authorities 4.
+Assessment of surface and ground water resources in a river basin for better planning & allocation for PMKSY and other schemes of Govt. of India 5.
+Reservoir operations through seasonal yield forecast, drought management, SCADA systems, etc.
+6. Design of SW & GW structures, hydropower units, interlinking of rivers, Smart Cities.
+7. Fulfilling the objectives of Digital India.
+8. People Centric approach: The programme envisages ultimate aim for water management through scientific data collection, dissemination of information on water availability in all blocks of the country and establishing of National Water Information Centre.
+The automated systems for Flood Forecasting is aimed to reduce water disaster ultimately helping vulnerable population.
+It is people and farmer centric programme as information on water can help in predicting water availability and help farmers to plan their crops and other farm related activities.
+Through this programme India would make a place among nations known for scientific endeavours.
+Out of the total outlay of Rs. 3679.7674 crore, Rs.3,640 crore has been earmarked for National Hydrology Project while Rs. 39.7674 crore has been kept aside for NWIC.
+Out of the total outlay, fifty per cent of the amount that is Rs.1839.8837 crore, would be World Bank loan which would be repaid by Central Government.
+The remaining 50% that is Rs. 1839.8837 crore would be Central Assistance from the budgetary support.
+The entire World Bank’s Loan component and Central assistance to the States and Central Organisations shall be passed on to them as Grants.
+Elucidation on the impact of the Project:
+a) Development of real time flood forecasting and reservoir operations in a manner that does not result in sudden opening of gates which inundates the area down below;
+b) It will facilitate integrated water resource management by adopting river basin approach through collation and management of hydro-meteorological data.
+This will also help in water resource assessment – as surface as well as ground water, for water resource planning, prioritize its allocations and its consumptive use for irrigation;
+c) It will help in providing real time information on a dynamic basis to the farmers about the ground water position for them to accordingly plan their cropping pattern;
+d) This will also help in promoting efficient and equitable use of water particularly of ground water at the village level;
+e) This will also provide information on quality of water
+Background
+The National Hydrology Project (NHP) is intended for setting up of a system for timely and reliable water resources data acquisition, storage, collation and management.
+It will also provide tools/systems for informed decision making through Decision Support Systems (DSS) for water resources assessment, flood management, reservoir operations, drought management, etc.
+NHP also seeks to build capacity of the State and Central sector organisations in water resources management through the use of Information Systems and adoption of State-of-the-art technologies like Remote Sensing.
+The MoWR, RD&GR has adopted a paradigm shift in the management of water resources of the country by adopting a river basin approach, In order to efficiently use and manage water resources of the country; adequacy of data, resource assessment, decision support systems, etc. are a prerequisite for allocation and prioritization of this fast depleting resource.

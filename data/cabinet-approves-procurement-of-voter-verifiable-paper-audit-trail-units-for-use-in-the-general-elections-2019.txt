@@ -1,0 +1,20 @@
+The Union Cabinet chaired by the Prime Minister Shri Narendra Modi has given its approval for procurement of Voter Verifiable Paper Audit Trail (VVPAT) Units for use in the General Elections, 2019 for
+a) purchase of 16,15,000 Voter Verifiable Paper Audit Trail (VVPAT) Units at a tentative unit cost of Rs.19,650, and at a total estimated cost of Rs. 3173.47 crore (excluding taxes and freight as applicable) during the years 2017-18 and 2018-19 from M/s Bharat Electronics Ltd., Bangalore and M/s Electronics Corporation of India Ltd., Hyderabad; b) directing the Price Negotiation Committee to negotiate with M/s Bharat Electronics Ltd and M/s Electronics Corporation of India Ltd to rationalise the final unit price expeditiously; c) allocation of additional funds to the tune of Rs. 1600 crore in the current financial year in the supplementaries/Revised Estimates for meeting the cash outgo envisaged for purchase of EVMs (Control Units & Ballot Units) and VVPAT Units during the year 2017-18, payment of 40% of the said amount as advance to the manufacturers and for provision of balance amount as may be required in the BE 2018-19; and d) placement of Order by the Election Commission to the two manufacturers depending upon their production capacity so that all the VVPAT Units can be procured by September, 2018.
+The decision of the Government would enable the Election Commission of India to deploy VVPAT Units in all pooling booths in the General Elections, 2019, which will act as an additional layer of transparency for the satisfaction of voters, allaying any apprehension in the minds of the voters as to the fidelity and integrity of the EVMs.
+This would also result in compliance of the directions of the Hon’ble Supreme Court vide its Order dated 8thOctober, 2013.
+Background:
+The idea of an additional layer of transparency for the satisfaction of voters in the form of a ‘voter verifiable paper trail’ was suggested by the political parties in a meeting taken by the ECI on 4th October, 2010.
+Accordingly, introduction of the VVPAT was facilitated by amending the Conduct of Election Rules, 1961 vide Notification dated 14th August, 2013.
+Thereafter, 20,300 VVPAT Units were purchased by the ECI in 2013.
+Since then, these units are being deployed in elections in select Assembly and Parliamentary Constituencies.
+Subsequently, order for 67,000 additional Units was placed in 2015, out of which 33,500 Units have been supplied by the manufacturers.
+Requisite funds for purchase of the aforesaid number of VVPAT Units were provided by the Government as and when requested by the Election Commission.
+VVPAT device functions like a printer to be attached to the ballot unit and kept inside the voting compartment.
+When the voter presses the button against the name of the candidate of his choice on the Ballot Unit, the VVPAT unit generates a paper slip, called Ballot Slip.
+This paper slip contains the name, serial number and symbol of the chosen candidate.
+The voter can see this slip through a screened window where it stays for seven seconds, and then it automatically gets cut and falls down into a sealed drop box.
+In this process, the slip will not go into the hands of the voter nor will others be able to see it.
+Civil Appeal No.9093/2013 was filed by Dr. Subramanian Swamy pleading for directions to the Election Commission to use VVPAT Units in all polling booths.
+It wasalleged in the said Petition, that the Electronic Voting Machines are not reliable and that there should be some device by which the voter should get a confirmation that the vote cast by him has been recorded in favour of the candidate of his choice.
+In deference to the plea of the petitioner in the aforesaid CA, the Election Commission submitted that it has no objection to the introduction of VVPAT Units for conduct of free, fair and transparent elections.
+The Supreme Court in its Order dated 8th October, 2013 directed that for implementation of such a system of VVPAT in phased manner Government of India may provide required financial assistance for procurement of requisite number of VVPAT Units.

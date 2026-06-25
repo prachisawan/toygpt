@@ -1,0 +1,57 @@
+The Government of the Federative Republic of Brazil
+and
+The Government of the Republic of India
+(hereinafter referred to as the “Parties”),
+RECALLING the Framework Agreement between the Government of the Federative Republic of Braziland theGovernment of the Republic of Indiaon cooperation in the peaceful uses of outer space signed on January 25, 2004; and the Implementing Arrangement regarding cooperation in augmentation of a Brazilian Earth Station for receiving and processing data from Indian Remote Sensing (IRS) Satellites signed on June 04, 2007 and expired on June 04, 2010, in accordance with its paragraph 6.2;
+CONSIDERING that Brazilian Space Agency (AEB) and the Indian Space Research Organisation (ISRO) have been named under the above Framework Agreement as Implementing Agencies responsible for the development, coordination and control of cooperation envisaged by the said Framework Agreement;
+CONSIDERING FURTHER that the Framework Agreement contemplates in its Article 2 item 2 that the Parties or the Implementing Agencies may designate other institutions to develop cooperation programs in the areas agreed under Article 3 of the Framework Agreement, within the limits of their competences;
+CONSIDERING ALSO that ISRO has developed and operationalised a series of Indian Remote Sensing Satellites (IRS) for natural resources and environmental management, and the data from these satellites are operationally received over many earth stations around the world;
+CONSIDERING FURTHER that under the Brazilian remote sensing data policy, satellite remote sensing data are made available to the user community in Brazil and adjoining countries for various environmental applications;
+ACKNOWLEDGING the interest of Brazil to receive the AWiFS and the LISS-III data from the Indian Resourcesat-2 satellite at the Cuiabá earth station in Brazil for natural resources management, on a basis similar to that agreed for Resourcesat-1 under the Cooperative Program signed on December 2008 between ISRO, AEB and National Institute for Space Research (INPE);
+DESIRING to continue the effective bilateral cooperation between both countries in the field of space activities, with a view to promote social, economic and cultural development for the benefit of the peoples of their countries; and
+AIMING to further encourage commercial and industrial cooperation between the private sectors of both countries in the space field.
+HAVE reached the following arrangement:
+Section 1
+PURPOSE
+The purpose of this Implementation Arrangement is to define the terms and conditions for augmentation of a Brazilian earth station to receive and process data from the Indian Remote Sensing (IRS) satellites.
+Section 2
+SCOPE
+This Implementing Arrangement provides for the reception of data from AWiFS and LISS-III payloads of IRS satellites, including but not limited to the Resourcesat-2 at Cuiabá earth station in Brazil on a Government-to-Government cooperation basis.
+Section 3
+DESIGNATIONS
+The AEB designates the National Institute for Space Research (INPE), the Brazilian executive agency for the subject of earth observation data reception, processing, archiving, and distribution to take responsibility and to work together with ISRO and its executive agency (National Remote Sensing Centre) in order to accomplish the actions in this Implementing Arrangement when nominally cited.
+Section 4
+RESPONSIBILITIES OF THE PARTIES
+4.1- ISRO responsibilities:
+4.1.1- ISRO shall arrange to make available to INPE remotely sensed data of areas within the acquisition radius of INPE´s earth station in Cuiabá acquired by AWiFS and LISS-III payloads of IRS satellites, as agreed by the Parties, including the Resourcesat-2;
+4.1.2- ISRO shall provide INPE with the specific hardware required to augment the Cuiabá earth station to enable the reception of IRS satellite data, including the Resourcesat-2 AWiFS and LISS-III, to the extent possible, the hardware infrastructure already established for the reception of previous IRS satellite data;
+4.1.3- ISRO shall provide the front-end hardware and software upgrades required, as appropriate, to process and generate products from the received data from IRS satellites, including Resourcesat-2 AWiFS and LISS-III;
+4.1.4- ISRO shall assist INPE engineers in setting up the hardware and software mentioned in 4.1.2 and 4.1.3 above;
+4.1.5- ISRO shall provide INPE with the IRS satellite orbital parameters, as appropriate, to enable INPE to point the Cuiabá earth station antenna to accurately receive the remotely sensed data;
+4.1.6- ISRO shall provide INPE with the necessary information on the IRS satellites, including AWiFS and LISS-III camera systems necessary for INPE to process the data and use it for different applications;
+4.1.7- ISRO shall provide the necessary training to INPE´s technical staff on IRS satellite data reception and processing, including for Resourcesat-2.
+4.2- INPE responsibilities:
+4.2.1- INPE shall set up the hardware and software systems provided by ISRO for Resourcesat-1 and augment the Cuiabá earth station to make it ready to receive the AWiFS and LISS-III data from ISRO’s Resourcesat-2 satellite, and other IRS satellites, as agreed by the Parties;
+4.2.2- INPE shall carry out the tests of the earth station and announce readiness of the ground station for receiving and processing the data as given in 4.2.1;
+4.2.3- INPE shall inform ISRO about the requirement of data to be received by the Cuiabá ground station two weeks in advance nominally so as to enable ISRO to programme the satellite for acquisition and transmission of the data;
+4.2.4- INPE shall be responsible for distributing the remotely sensed data products to the users only over areas within the acquisition radius of INPE´s ground station in Cuiabá;
+4.2.5 INPE will archive and make publicly available data from IRS satellites, as agreed by the Parties, from areas within the acquisition radius of INPE´s ground station in Cuiabá, respecting each other´s policy of data distribution and availability; and
+4.2.6- INPE shall make available to ISRO copies of the data received over areas within the acquisition radius of INPE´s ground station in Cuiabá on a six monthly basis.
+Section 5
+FINANCIAL ARRANGEMENTS
+5.1- INPE will, with its own regular budgetary resources, bear the cost for augmentation of the existing Resourcesat-1 hardware infrastructure at Cuiabá ground station for the purpose of receiving Resourcesat-2 data and for other IRS satellite data, as agreed by the Parties.
+5.2- ISRO shall provide to INPE the front-end hardware and software upgrades required to augment the Cuiabá earth station free-of-cost;
+5.3- The costs for the non-exclusive rights to receive, process and use the data from AWiFS and LISS-III of Resourcesat-2 satellite and other IRS satellite data, as agreed by the Parties, shall be borne by AEB on a non-commercial and most favourable basis using its own approved budgetary resources; and
+5.4- Apart from above, ISRO and AEB shall bear their own costs for carrying out their responsibilities under this Implementing Arrangement.
+AEB will bear its respective costs using its own approved budgetary resources.
+Section 6
+INTELLECTUAL PROPERTY, EXCHANGE OF INFORMATION, LIABILITY, CUSTOMS REGULATION, EXPORT CONTROL, ASSISTANCE TO ACTIVITIES OF PERSONNEL AND SETTLEMENT OF DISPUTES
+With respect to use and application of laws relating to intellectual property, exchange of information, liability, customs regulation, export control, assistance to the activities of personnel and settlement of disputes, within the framework of this Arrangement, the relevant articles of the Framework Agreement between the Government of the Republic of India and the Government of the Federative Republic of Brazil on cooperation in the peaceful uses of outer space signed on January 25, 2004 shall apply for the activities carried out within the framework of this Arrangement.
+Section 7
+FINAL CLAUSES
+7.1- The present Arrangement shall enter into force on the date of the last notification on the fulfillment by the Parties of their legal internal procedures necessary for this purpose;
+7.2- This Arrangement shall remain in force for as long as the Parties agree to continue their cooperation regarding the reception of IRS satellite data, to be communicated every 3 years through exchange of notes;
+7.3- For the reception of other IRS satellite data, as agreed by the Parties, specific terms and conditions under which ISRO will provide and INPE will receive, process, archive and distribute data will be developed in specific Cooperative Programs;
+7.4- This Arrangement shall cease to exist in the event the Framework Agreement between the Government of the Republic of India and the Government of the Federative Republic of Brazil on cooperation in the peaceful uses of outer space signed on January 25, 2004 is terminated; and
+7.5- This Arrangement may be amended by mutual consent through exchange of letters between the Parties.
+The amendments shall enter into force in accordance with the procedure set up in Section 7.1.

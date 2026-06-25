@@ -1,0 +1,49 @@
+Prime Minister of India, Shri Narendra Modi launched today his ambitious multi-purpose and multi-modal platform PRAGATI (Pro-Active Governance And Timely Implementation).
+PRAGATI is a unique integrating and interactive platform.
+The platform is aimed at addressing common man’s grievances, and simultaneously monitoring and reviewing important programmes and projects of the Government of India as well as projects flagged by State Governments.
+Speaking on the occasion, the Prime Minister said the whole world is now observing India keenly.
+It is imperative that governance in India becomes more efficient and responsive.
+He said the PRAGATI platform was a step in this direction.
+During the first PRAGATI interaction today, the Prime Minister discussed issues relating to unseasonal rain and relief to farmers, public grievances, project implementation, Swachh Bharat and ‘ease of doing business.’
+The interaction lasted for two hours.
+Some of the issues discussed included:
+• Two sets of public grievances of more than 20 people relating to (a) payment of Employees Provident Fund of private sector and (b) Income Tax refunds; It was noted that all the grievances had been redressed.
+Also, the intervention through PRAGATI is leading to system improvement so that such grievances do not arise.
+• Two issues flagged by States of Uttar Pradesh and Maharashtra, regarding National Highways and clearance for Navi Mumbai airport, respectively.
+• Six Central Government projects involving more than a dozen Union Government Ministries and thirteen States.
+It was noted that various actions and permissions relating to projects were pending for several years.
+Due to PRAGATI, on several issues there was definite progress.
+In fact, some of the issues were almost finally resolved.
+• Progress of School Toilet Programme, and Swachh Bharat Abhiyan
+PM gave suitable directions for redressal of grievances and compliance on the projects and programmes and motivated all officers to work in coordinated manner for outcome;
+A built-in feature of PRAGATI is that these directions will remain in the system for further follow up and review till the finality of the matter.
+The PRAGATI platform uniquely bundles three latest technologies: Digital data management, video-conferencing and geo-spatial technology.
+It also offers a unique combination in the direction of cooperative federalism since it brings on one stage the Secretaries of Government of India and the Chief Secretaries of the States.
+With this, the Prime Minister is able to discuss the issues with the concerned Central and State officials with full information and latest visuals of the ground level situation.
+Such an effort has never been made in India.
+It is also an innovative project in e-governance and good governance.
+Immediately after assuming office, the Prime Minister had shown his keenness to design a credible mechanism for redressal of Public Grievances.
+He was equally keen to see that programmes and projects launched by the Central and State Government(s) are monitored properly for timely implementation and desired outcome.
+With that spirit and for holistic development of the country, it was also felt necessary to facilitate from the Union Government level the projects of the States.
+Accordingly, with the three objectives of: Grievance Redressal, Programme Implementation and Project Monitoring, an IT-based redressal and monitoring system has been designed.
+It will combine Data Management and Analysis, Geo-spatial Applications as well as Video-conferencing.
+The application will be accessible to the Secretaries of the Government of India and the State Chief Secretaries.
+Key features of the PRAGATI application are as follows:
+• It is a three-tier system (PMO, Union Government Secretaries, and Chief Secretaries of the States);
+• Prime Minister will hold a monthly programme where he will interact with the Government of India Secretaries, and Chief Secretaries through Video-conferencing enabled by data and geo-informatics visuals;
+• The first such programme was launched on 25th March, 2015 (Wednesday) at 3.30 PM;
+• Now onwards, it will be held once in every month on Fourth Wednesday at 3.30 PM-to be known as PRAGATI Day.
+• Issues to be flagged before the PM are picked up from the available database regarding Public Grievances, on-going Programmes and pending Projects;
+• The system will ride on, strengthen and re-engineer the data bases of the CPGRAMS for grievances, Project Monitoring Group (PMG) and the Ministry of Statistics and Programme Implementation.
+PRAGATI provides an interface and platform for all these three aspects.
+• It will also take into consideration various correspondences to PM’s office by the common people or from high dignitaries of States and/or developers of public projects;
+• The issues flagged are uploaded seven days prior to the PRAGATI day (i.e. on third Wednesday of every month).
+• These issues can be viewed by the Union Government Secretaries and Chief Secretaries after entering into the application;
+• User ID and Password for each of the Union Government Secretaries and Chief Secretaries have been created and made available;
+• Union Government Secretaries and Chief Secretaries will be able to see the issues pertaining to their Department /State;
+• Union Government Secretaries and Chief Secretaries have to put their comments and updates about the flagged issues within three days (i.e. by next Monday);
+• One day – Tuesday is available to the PMO team to review the data entered by the Union Government Secretaries and Chief Secretaries;
+• The design is such, that when PM reviews the issue he should have on his screen the issue as well as the latest updates and visuals regarding the same;
+The system has been designed in-house by the PMO team with the help of National Informatics Center (NIC).
+As the name suggests, it is aimed at starting a culture of Pro-Active Governance and Timely Implementation.
+It is also a robust system for bringing e-transparency and e-accountability with real-time presence and exchange among the key stakeholders.

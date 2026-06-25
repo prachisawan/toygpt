@@ -1,0 +1,8 @@
+The Union Cabinet under the Chairmanship of Prime Minister Shri Narendra Modi has been apprised of the Memorandum of Understanding (MoU) signed on 20th May, 2016 between Indian Computer Emergency Response Team (CERT-In) and Ministry of Cabinet Office, UK (as represented by CERT-UK, a unit of the Cabinet Office on Cyber Security).
+The MoU intends to promote closer cooperation between India and the United Kingdom for exchange of knowledge and experience in detection, resolution and prevention of security-related incidents.
+Cyber Security was one of the agenda items for discussion during Hon’ble Prime Minister’s visit to UK in November, 2015.
+With this MoU, participating countries can exchange technical information on Cyber attacks, response to cyber security incidents and find solutions to counter the cyber attacks.
+They can also exchange information on prevalent cyber security policies and best practices.
+This MoU helps to strengthen cyber space of both countries, capacity building and improving relationship between them.
+Earlier CERT-In signed MoUs with counterpart/similar organizations in about seven countries – Korea, Canada, Australia, Malaysia, Singapore, Japan and Uzbekistan.
+Ministry of External Affairs has also signed MoU with Cyber Security as one of the areas of cooperation with Shanghai Cooperation Organization.

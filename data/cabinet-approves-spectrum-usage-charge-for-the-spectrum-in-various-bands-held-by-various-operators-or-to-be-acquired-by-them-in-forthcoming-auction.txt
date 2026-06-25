@@ -1,0 +1,10 @@
+The Union Cabinet, chaired by the Prime Minister Shri Narendra Modi has approved the rates for Spectrum Usage Charge (SUC) for various bands of spectrum for which auction are going to be conducted shortly.
+With this decision the path is clear for issuance of the Notice Inviting Application for spectrum auction by the Department of Telecommunications.
+As per the decision of the cabinet, the Spectrum Usage Charge is to be prescribed as given below:
+(i) Spectrum acquired in forthcoming auction in 700, 800, 900, 1800, 2100, 2300 & 2500 MHz band is to be charged at the rate of 3% of Adjusted Gross Revenue (AGR) excluding the revenue from wire-line services.
+(ii) The weighted average of SUC rates across all spectrum assigned to an operator (whether assigned administratively or through auction or through trading) in all access spectrum bands including BWA spectrum obtained in 2010 auction shall be applied for charging SUC subject to a minimum of 3% of AGR excluding revenues from wire-line services.
+The weighted average is to be derived by sum of product of spectrum holdings and applicable SUC rate divided by total spectrum holding.
+The Weighted Average Rate shall be determined operator wise for each service area.
+(iii) The amount of SUC payable by the operators during 2015-16 at weighted average derived after taking into consideration the spectrum acquired in the coming auction and excluding the spectrum in 2300 MHz/2500 MHz band acquired/ allocated prior to 2015-16, shall be treated as the floor amount of the SUC to be paid by the operators.
+Further, in case there is a reduction in AGR of the service provider, the floor amount of SUC shall be reduced proportionately.
+This will facilitate to move to a simple, transparent and flat ad-valorem SUC regime in accordance with the law and avoid creative accounting to bypass the revenues.

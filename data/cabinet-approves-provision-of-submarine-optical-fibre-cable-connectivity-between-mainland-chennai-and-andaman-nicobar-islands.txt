@@ -1,0 +1,15 @@
+The Union Cabinet, chaired by the Prime Minister Shri Narendra Modi, has given its approval for provision of a direct communication link through a dedicated submarine Optical Fibre Cable (OFC) between Mainland (Chennai) and Port Blair & five other islands viz.
+Little Andaman, Car Nicobar, Havelock, Kamorta and Great Nicobar.
+The estimated cost of the project is Rs. 1102.38 crore including operational expenses for 5 years.
+The project is likely to be completed by December 2018.
+The approval would equip Andaman & Nicobar Islands (ANI) with appropriate bandwidth and telecom connectivity for implementation of e-Governance initiatives; establishment of enterprises & e-commerce facilities.
+It will also enable the provision of adequate support to educational institutes for knowledge sharing, availability of job opportunities and fulfil the vision of Digital India.
+Background:
+The Andaman and Nicobar Islands are of immense strategic significance for India.
+The geographical configuration and the location of the Andaman & Nicobar Islands chain in the Bay of Bengal safeguard India’s eastern seaboard.
+Provision of secure, reliable, robust, and affordable telecom facilities in these islands is of importance from a strategic point of view to the country and also an important requirement for the socio-economic development of the islands.
+Currently the only medium of providing telecom connectivity between Mainland and Andaman & Nicobar Islands is though satellites, but the bandwidth available is limited to 1 Gbps.
+Satellite bandwidth is very costly and its availability is limited due to which future bandwidth requirement cannot be met solely through it.
+Then, there is an issue of redundancy, that is, no alternate media is available in case of any emergency.
+Lack of bandwidth and telecom connectivity is also hampering socio-economic development of the islands.
+Hence it is essential to have submarine OFC connectivity between the Mainland India and Andaman & Nicobar Islands, being the only option for catering to projected future bandwidth requirements.

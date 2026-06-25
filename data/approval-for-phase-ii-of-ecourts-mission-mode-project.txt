@@ -1,0 +1,14 @@
+The Union Cabinet chaired by the Prime Minister, Shri Narendra Modi, today gave its approval for the second phase of eCourts Mission Mode Project at an estimated cost of Rs.1670 crore.
+It envisages enhanced ICT enablement of courts through universal computerisation, use of cloud computing, digitization of case records and enhanced availability of e-services through e-filing, e-payment gateways and mobile applications etc.
+Background:-
+The eCourts project of the Government is aimed at providing necessary hardware and software applications to enable courts to deliver e-services to citizens, and to enable the judiciary to better monitor and manage the functioning of courts.
+In Phase I of the project more than 13000 District and Subordinate courts have been computerised and case information linked to the respective District court websites.
+These courts are now providing online eServices such as cause lists, case status and judgments, to litigants and public through the eCourts portal (http://www.ecourts.gov.in) also.
+Case status information in respect of over 5 crore pending and decided cases and more than one crore orders/ judgments are available online.
+Litigants and lawyers are also provided services through Judicial Service Centre at the court complexes.
+More than 24 crore transactions have already been recorded regarding online access of court information.
+The Phase II of the eCourts project would also help in the automation of workflow management in courts thereby contributing to better court and case management.
+Touch screen based Kiosks and Video Conferencing facility will be installed at all Court Complexes and corresponding jails.
+Hand held process service devices will be provided to process servers to ensure transparent and time bound delivery of court notices and summons.
+Also, the use of solar energy has been proposed at 5 percent of the court complexes on a pilot basis.
+In line with the Digital India Programme of the Government of India which emphasises on Citizen centric services, this project would also focus on Digital Infrastructure as a core utility to every citizen providing Governance and Services on demand eventually making the citizens digitally empowered.

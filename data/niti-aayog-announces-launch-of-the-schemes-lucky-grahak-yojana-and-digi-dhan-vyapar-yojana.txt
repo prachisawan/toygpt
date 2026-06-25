@@ -1,0 +1,48 @@
+Government of India has initiated numerous steps to combat the scourge of Corruption and Black Money in the last two and a half years.
+The Union cabinet had approved a slew of initiatives in February 2016 to encourage digital payments and a transition to less-cash economy in a strategic manner.
+The Prime Minister had highlighted these measures in his Man Ki Baat address in May 2016.
+He had urged people to adopt cashless transactions.
+He said “If we learn and adapt ourselves to use cashless transactions, then we will not require notes.
+Businesses will function automatically, resulting in a certain transparency.
+Under-hand dealings will stop; the influence of black money will be reduced.
+So I appeal to my countrymen, that we should at least make a beginning.
+Once we start, we will move ahead with great ease.
+Twenty years ago who would have thought that so many mobiles would be in our hands.
+Slowly we cultivated a habit and now we can’t do without those.
+Maybe this cashless society assumes a similar form.
+But the sooner this happens, the better it will be”.
+It would be recalled that towards this end, the Government had launched a major drive for financial inclusion in terms of opening Jan Dhan accounts, giving a statutory basis for Aadhar, implementation of Directs Benefits Transfer, introduction of RuPay Cards and Voluntary Disclosure Scheme for unaccounted money.
+Demonetization of 500 and 1000 Rs. notes was another important milestone in this endeavour.
+Following demonetization, there has been a spurt in the digital payments across the country and both the volume and amount of money transacted through digital methods has seen manifold increase since November 9th( see figure below)
+Yet, as on date, nearly 95 per cent of India’s personal consumption expenditure transactions are cash-based giving rise to a very large informal economy limiting the ability of State to levy and raise taxes.
+The Government of India had recently (December 8th) announced a slew of measures to promote digital payments (https://twitter.com/PMOIndia/status/807069075616608256/).
+To increase overall transparency in the economy and to remove the pernicious influence of cash on the political and economic system, it is essential that we take a longer term view and bring in measures that would influence the behaviour of the consumers as well as merchants to shift to digital payment instruments.
+It is now possible by leveraging technology to carry out business transactions digitally through mechanisms like UPI, USSD, Ru Pay cards and Aadhar Enabled Payment System (AEPS).
+In a country like India where 65% of the population is below 35 years of age, whose IT prowess is well recognized and where even poor and illiterate people exercise their franchise through EVMs, this transformation toward digital economy is definitely possible, provided the citizens resolve to do so.
+NITI Aayog announces the launch of the schemes Lucky Grahak Yojana and the Digi-धन Vyapar Yojana to give cash awards to consumers and merchants who utilize digital payment instruments for personal consumption expenditures.
+The scheme specially focuses on bringing the poor, lower middle class and small businesses into the digital payment fold.
+It has been decided that National Payment Corporation of India (NPCI) shall be the implementing agency for this scheme.
+It would be useful to reiterate that NPCI is a not for profit company which is charged with a responsibility of guiding India towards being a cashless society.
+The primary aim of these schemes is to incentivize digital transactions so that electronic payments are adopted by all sections of the society, especially the poor and the middle class.
+It has been designed keeping in mind all sections of the society and their usage patterns.
+For instance, the poorest of poor will be eligible for rewards by using USSD.
+People in village and rural areas can participate in this scheme through AEPS.
+The scheme will become operational with the first draw on 25th December, 2016 (as a Christmas gift to the nation) leading up to a Mega Draw on Babasaheb Ambedkar Jayanti on 14th April 2017.
+It will comprise of two major components, one for the Consumers and the other for the Merchants:
+a) Lucky Grahak Yojana [Consumers]:
+i. Daily reward of Rs 1000 to be given to 15,000 lucky Consumers for a period of 100 days; ii.
+Weekly prizes worth Rs 1 lakh, Rs 10,000 and Rs. 5000 for Consumers who use the alternate modes of digital Payments This will include all forms of transactions viz.
+UPI, USSD, AEPS and RuPay Cards but will for the time being exclude transactions through Private Credit Cards and Digital Wallets.
+b) Digi-धन Vyapar Yojana[Merchants]:
+i. Prizes for Merchants for all digital transactions conducted at Merchant establishments ii.
+Weekly prizes worth Rs. 50,000, Rs 5,000 and Rs. 2,500 c) Mega Draw on 14th of April – Ambedkar Jayanti
+a) 3 Mega Prizes for consumers worth Rs 1 cr, 50 lakh, 25 lakh for digital transactions between 8th November, 2016 to 13th April, 2017 to be announced on 14th April, 2017 b) 3 Mega Prizes for merchants worth Rs 50 lakhs, 25 lakh, 12 lakh for digital transactions between 8th November, 2016 to 13th April, 2017 to be announced on 14th
+To ensure that the focus of the scheme is on small transactions (entered into by common people), incentives shall be restricted to transactions within the range of Rs 50 and Rs 3000.
+All transactions between consumers and merchants; consumers and government agencies and all AEPS transactions will be considered for the incentive scheme.
+The winners shall be identified through a random draw of the eligible Transaction IDs [which are generated automatically as soon as the transaction is completed] by software to be especially developed by NPCI for this purpose.
+NPCI has been directed to ensure a technical and security audit of the same to ensure that the technical integrity of the process is maintained.
+The estimated expenditure on the first phase of the scheme (up to 14th April 2017) is likely to be 340 Crores .
+The Government will simultaneously carry out a review for further implementation.
+India is transitioning at a rapid rate from a cash-user society to a cashless society.
+This is a historic moment in our nation’s history when our nation is shedding old habits and rapidly adopting new means which shall propel us into a truly modern age.
+PPT on ‘INCENTIVIZING DIGITAL PAYMENTS’

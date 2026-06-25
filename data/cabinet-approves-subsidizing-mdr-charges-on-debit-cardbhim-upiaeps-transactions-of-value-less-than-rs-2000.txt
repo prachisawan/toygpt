@@ -1,0 +1,8 @@
+The Union Cabinet chaired by Prime Minister Shri Narendra Modi has approved that the Merchant Discount Rate (MDR) applicable on all debit card/BHIM UPI/ Aadhaar enabled Payment System (AePS) transactions upto and including a value of Rs. 2000 will be borne by the Government for a period of two years with effect from 1st January, 2018 by reimbursing the same to the banks.
+A Committee comprising of Secretary Department of Financial Services, Secretary Ministry of Electronics & I.T. and the CEO, National Payment Corporation of India (NPCI) will look into the industry cost structure of such transactions which will form the basis to determine the levels of reimbursement.
+As a result of this approval, for all transactions less than Rs. 2000 in value, the consumer and the merchant will not suffer any additional burden in the form of MDR thereby leading to greater adoption of digital payment modes for such transactions.
+Since such transactions account for sizeable percentage of transaction volume, it will help to move towards a less cash economy.
+It is estimated that the MDR to be reimbursed to the banks in respect of transactions less than Rs.2000 in value would be Rs.1,050 crore in FY 2018-19 and Rs.1,462 crore in FY 2019-20.
+When payment is made at a merchant point of sale, MDR is payable by the merchant to the bank.
+Citing this, many people make cash payments inspite of having debit cards.
+Similarly, MDR is charged on payments made to merchants through BHIM UPI platform and AePS.

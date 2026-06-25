@@ -1,0 +1,40 @@
+The Union Cabinet chaired by the Prime Minister, Shri Narendra Modi, today gave its approval for the Approach and Key Components of e-Kranti : National e-Governance Plan (NeGP) 2.0.
+This is a follow up to the key decisions taken in the first meeting of the Apex Committee on the Digital India programme held in November 2014.
+This programme has been envisaged by the Department of Electronics and Information Technology (DeitY).
+The objectives of `e-Kranti` are as follows:
+i. To redefine NeGP with transformational and outcome oriented e-Governance initiatives.
+ii. To enhance the portfolio of citizen centric services.
+iii. To ensure optimum usage of core Information & Communication Technology (ICT).
+iv. To promote rapid replication and integration of eGov applications.
+v. To leverage emerging technologies.
+vi. To make use of more agile implementation models.
+The key principles of e-Kranti are as follows:
+i. Transformation and not Translation.
+ii. Integrated Services and not Individual Services.
+iii. Government Process Reengineering (GPR) to be mandatory in every MMP.
+iv. ICT Infrastructure on Demand.
+v. Cloud by Default.
+vi. Mobile First.
+vii. Fast Tracking Approvals.
+viii. Mandating Standards and Protocols.
+ix. Language Localization.
+x. National GIS (Geo-Spatial Information System).
+xi. Security and Electronic Data Preservation.
+e-Kranti is an important pillar of the Digital India programme.
+The Vision of e-Kranti is “Transforming e-Governance for Transforming Governance”.
+The Mission of e-Kranti is to ensure a Government wide transformation by delivering all Government services electronically to citizens through integrated and interoperable systems via multiple modes, while ensuring efficiency, transparency and reliability of such services at affordable costs.
+The approach and methodology of e-Kranti are fully aligned with the Digital India programme.
+The programme management structure approved for Digital India programme would be used for monitoring the implementation of e-Kranti and also for providing a forum to ascertain views of all stakeholders, overseeing implementation, resolving inter-Ministerial issues and ensuring speedy sanction of projects.
+Key components of the management structure would consist of the Cabinet Committee on Economic Affairs (CCEA) for according approval to projects according to the financial provisions, a Monitoring Committee on Digital India headed by the Prime Minister, Digital India Advisory Group chaired by the Minister of Communications and IT, an Apex Committee chaired by the Cabinet Secretary and the Expenditure Finance Committee (EFC) / Committee on Non Plan Expenditure (CNE).
+The Apex Committee headed by the Cabinet Secretary would undertake addition / deletion of Mission Mode Projects (MMPs) which are considered to be appropriate and resolve inter-Ministerial issues.
+Central Ministries/ Departments and State Governments concerned would have the overall responsibility for implementation of the MMPs.
+Considering the need for overall aggregation and integration at the national level, it is felt appropriate to implement e-Kranti as a programme, with well defined roles and responsibilities of each agency involved.
+The thrust areas of the e-Kranti – electronic delivery of services under the Digital India programme are:-
+Technology for Education (e-Education), Health (e-Healthcare), Farmers, Financial Inclusion, Planning, Justice, Security, Planning and Cyber Security.
+e-Governance – Reforming Government through Technology, a pivotal pillar of the Digital India programme, would also be implemented under e-Kranti by undertaking and strengthening Government Process Re-engineering, electronic databases, complete workflow automation and IT based Public Grievance Redressal in all Government Departments.
+Background
+A strength, weaknesses, opportunities and threats (SWOT) analysis of NeGP reveals several issues related to adopting new technologies, transforming processes and improving implementation that need to be addressed urgently.
+It derives from the reports of the Expert Groups and the experience of DeitY in working with various Ministries and Departments in implementing the 31 MMPs.
+It is evident that there is a need to make substantial improvements to the current framework of NeGP to bring about the desired transformation.
+It is also clear that the weaknesses and threats under the current framework adversely affect implementation of various MMPs, resulting in sub-optimal outcomes.
+On the other hand, the opportunities present a compelling case for a comprehensive revision of the entire e-Governance framework in the country, to achieve the full potential of e-Governance for improving delivery of Government services to citizens.

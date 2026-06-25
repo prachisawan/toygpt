@@ -1,0 +1,15 @@
+The Union Cabinet, chaired by the Prime Minister Narendra Modi has approved the promulgation of an Ordinance to make amendments to the Aadhaar Act 2016, Prevention of Money Laundering Act 2005 & Indian Telegraph Act 1885.
+The amendments proposed are the same as those contained in the Bill passed by the Lok Sabha on 4th January 2019.
+Impact:-
+The amendments would enable UIDAI to have a more robust mechanism to serve the public interest and restrain the misuse of Aadhaar.
+Subsequent to this amendment, no individual shall be compelled to provide proof of possession of Aadhaar number of undergo authentication for the purpose of establishing his identity unless it is so provided by a law made by Parliament.
+Salient Features
+The salient features of the amendments are as follows—
+Provides for voluntary use of Aadhaar number in physical or electronic form by authentication or offline verification with the consent of Aadhaar number holder; Provides for use of twelve-digit Aadhaar number and its alternative virtual identity to conceal the actual Aadhaar number of an individual; Gives an option to children who are Aadhaar number holders to cancel their Aadhaar number on attaining the age of eighteen years; Permits the entities to perform authentication only when they are compliant with the standards of privacy and security specified by the Authority; and the authentication is permitted under any law made by Parliament or is prescribed to be in the interest of State by the Central Government; Allows the use of Aadhaar number for authentication on voluntary basis as acceptable KYC document under the Telegraph Act, 1885 and the Prevention of Money-laundering Act, 2002.
+Proposes deletion of section 57 of the Aadhaar Act relating to use of Aadhaar by private entities; Prevents denial of services for refusing to, or being unable to, undergo authentication; Provides for establishment of Unique Identification Authority of India Fund; Provides for civil penalties, its adjudication, appeal thereof in regard to violations of Aadhaar Act and provisions by entities in the Aadhaar ecosystem.
+Background:
+The Supreme Court in its judgement dated 26.9.2018 in W.P (civil) No.494 of 2012 and other tagged petitions held Aadhaar to be constitutionally valid.
+However, it read down/struck down few sections of the Aadhaar Act and Regulations and gave several other directions in the interest of protecting the fundamental rights to privacy.
+Consequently it was proposed to amend the Aadhaar Act, Indian Telegraph Act and the Prevention of Money Laundering Act in line with the Supreme Court directives and the report of Justice B.N.Srikrishna (Retd.) committee on data protection, in order to ensure that personal data of Aadhaar holder remains protected against any misuse and Aadhaar scheme remains in conformity with the Constitution.
+Towards this, the Aadhaar and Other Laws (Amendment) Bill, 2018 was passed by the Lok Sabha in its sitting held on 4th January, 2019.
+However, before the same could be considered and passed in the Rajya Sabha, the Rajya Sabha was adjourned sine die.

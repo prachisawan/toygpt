@@ -1,0 +1,21 @@
+The Union Cabinet, chaired by Prime Minister, Shri Narendra Modi, has approved the proposal of the Department of Telecommunication (DoT) to proceed with auction in 2100 MHz band alongwith 800, 900 and 1800 MHz bands.
+The Reserve price approved for 2100 MHz Band is Rs 3705 crore pan-India per MHz.
+A 5 MHz Block will be offered in all service areas except Jammu & Kashmir, Bihar, Himachal Pradesh, West Bengal and Punjab.
+Thus a total of 85 MHz in 17 Licensed Service Areas (LSAs) is being put to auction.
+Salient condition of payment terms and eligibility criteria are given in the Annexure.
+The estimated revenues from the auction of 2100 MHz Band are Rs.17555 crore of which Rs.5793 crore is expected to be realized in the current financial year.
+Annexure
+Eligibility Criterion
+(i) Any licensee that holds a Unified Access Service (UAS)/ Cellular Mobile Telephone Service (CMTS) / Unified License (Access Service) UL(AS) / UL licence with authorization for Access Services for that Service Area; or
+(ii) any licensee that fulfils the eligibility for obtaining a UL with authorization for AS; or
+(iii) any entity that gives an undertaking to obtain a UL for access service authorisation through a New Entrant Nominee as per the DoT guidelines/licence conditions.
+can bid for the Spectrum (subject to other provisions of the Notice).
+Payment Terms
+Successful Bidders shall make the payment in any of the following two options:
+(a) Full upfront payment within 10 days of declaration of final price or pre-payment of one or more annual instalments; or
+(b) deferred payment, subject to the following conditions:
+(i) An upfront payment; of 33 percent in the case of 2100 MHz band.
+(ii) There shall be a moratorium of two years for payment of balance amount of one time charges for the spectrum, which shall be recovered in 10 equal annual instalments.
+(iii) The first instalment of the balance due shall become due on the third anniversary of the scheduled date of the first payment.
+Subsequent instalment shall become due on the same date of each following year.
+Prepayment of one or more instalments will be allowed on each annual anniversary date of the first upfront payment, based upon the principle that the Net Present Value of the payment is protected.

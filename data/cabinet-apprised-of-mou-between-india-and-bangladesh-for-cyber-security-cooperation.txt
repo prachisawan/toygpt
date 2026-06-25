@@ -1,0 +1,9 @@
+The Union Cabinet chaired by the Prime Minister Shri Narendra Modi has been apprised of the Memorandum of Understanding (MoU) between India and Bangladesh on cyber security cooperation between Indian Computer Emergency Response Team (CERT-In) under the Ministry of Electronics and Information Technology of India and Bangladesh Government Computer Incident Response Team (BGD e-Gov CIRT) Bangladesh Computer Council of Information and Communication Technology Division under the Ministry of Posts, Telecommunications and Information Technology of Bangladesh.
+The MoU was signed on 8th April, 2.017.
+The MoU intends to promote cooperation between CERT-In and BGD e-Gov CIRT and includes exchange of information on Cyber attacks and cyber security incidents; Cyber security technology cooperation; exchange cyber security policies and best practices and Human Resource Development in this field in accordance with the relevant laws and regulations of each country and on the basis of equality, reciprocity and mutual benefits.
+The MoU between CERT-In and BGD e-Gov CIRT would be implemented through a duly set up Joint Committee on Cyber Security.
+Background:-
+CERT-In is a national nodal agency under Ministry of Electronics and Information Technology, Government of India, with the objective of securing Indian cyber space.
+Hence, CERT-In is collaborating with overseas Computer Emergency Response Teams (CERTs) for incident response and resolution.
+The agreement comes in the backdrop of Governments, business and consumers are increasingly faced with a variety of cyber threats.
+Besides, there is a need to further improve cyber security readiness and raise awareness around the importance of keeping systems secure and security practices and procedures current and recognizing the importance of cooperation by the two organizations in the area of cyber security.

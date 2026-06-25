@@ -1,0 +1,9 @@
+The Union Cabinet chaired by the Prime Minister Shri Narendra Modi has given its approval for the procurement of launch services and realization of ground segment for GSAT-11 spacecraft at a cost of Rs. 1117 crore.
+GSAT-11 will be ready for launch by the end of 2016.
+Considering the 5600 Kg lift-off mass, the satellite will be launched using procured launch vehicle outside the country.
+The ground segment is being realized to address the rural communication requirements.
+This will enable early deployment of GSAT-11 so as to augment Ku-band capacity which can be utilized for various services like VSATS, broadband etc.
+The ground segment of GSAT-11 will enable the utilisation of a small portion of the bandwidth for societal services apart from providing in orbit testing support.
+It will also provide a high throughput capacity of about 10 Gbps to render broadband connectivity especially in rural areas.
+Background:
+GSAT-11, a communication satellite with 32 high-power spot beams for providing high bandwidth VSAT communication is currently under development at DOS/ISRO facilities.

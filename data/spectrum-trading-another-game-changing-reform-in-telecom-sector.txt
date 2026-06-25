@@ -1,0 +1,52 @@
+Close on heals of the decision on spectrum sharing, the Union Cabinet chaired by the Prime Minister, Shri Narendra Modi, today approved a proposal of the Department of Telecommunications on guidelines for spectrum trading arising from the recommendations of the Telecom Regulatory Authority of India (TRAI).
+Together with the earlier decision, this is expected to transform the spectrum usage in the telecom sector.
+The salient features of the norms for spectrum trading shall include:-
+(1). Spectrum trading will be allowed only between two access service providers only outright transfer of right to use the spectrum from the seller to the buyer shall be permitted.
+(2). Spectrum trading will not alter the original validity period of spectrum assignment as applicable to the traded block of spectrum.
+(3). The seller shall clear all his dues prior to entering into any agreement for spectrum trading.
+Thereafter, any dues recoverable up to the effective date of transfer shall be the liability of the buyer.
+The Government shall, at its discretion, be entitled to recover the amount, if any, found recoverable subsequent to the effective date of the transfer, which was not known to the parties at the time of the effective date of transfer, from the buyer or seller, jointly or severally.
+(4). A licensee shall not be allowed to trade in spectrum if it has been established that the licensee had breached the terms and conditions of the licence and the Licensor has ordered for revocation/termination of its licence.
+(5). Spectrum Trading shall be permitted only on a pan-LSA (Licensed Service Area) basis.
+In case the spectrum assigned to the seller is restricted to part of the LSA by the Licensor, then, after trading, the rights and obligations of the seller for the remaining part of the LSA with regard to assignment of that spectrum shall also stand transferred to the buyer.
+Further, relevant provisions of NIA with respect to spectrum assignment in part of the LSA, which were applicable to seller before the spectrum trade, will apply to buyer subsequent to the spectrum trade.
+(6). All access spectrum bands earmarked for Access Services by the Licensor will be treated as tradable spectrum bands.
+(7). Only that spectrum in the specified bands is permissible to be traded which has either been assigned through an auction in the year 2010 or afterwards, or on which the Telecom Service Provider (TSP) has already paid the prescribed market value (as decided by the Government from time to time) to the Government.
+In respect of spectrum in 800 MHz band acquired in the auction held in March 2013, trading of spectrum shall be permitted only if the differential of the latest auction price and the March 2013 auction price on pro-rata basis on the balance period of right to use the spectrum is paid.
+(8). Buyer will be allowed to use the spectrum acquired in 800 MHz/1800 MHz band through trading to deploy any technology by combining it with their existing spectrum holding in the same band after converting their entire existing spectrum holding into liberalized spectrum in that band as per the prevalent terms and conditions.
+(9). The terms and conditions attached to the spectrum under the provisions specified in the relevant NIA document or otherwise shall continue to apply after the transfer of spectrum unless specifically mentioned in the guidelines.
+(10). If any TSP sells only a part of its spectrum holding in a band, both, buyer as well as seller, will be required to pay the remaining instalments of payment (in case seller had acquired the spectrum through auction and opted for deferred payment), prorated for the quantum of spectrum held by each of them subsequent to the spectrum trade.
+(11). The buyer should be in compliance of the prescribed spectrum caps from time to time.
+The spectrum acquired through trading shall be counted towards the spectrum cap by adding to the spectrum holding of the buyer.
+(12). The seller should clear its Spectrum Usage Charges (SUC) and its instalment of payment (in case seller had acquired the spectrum through auction and opted for deferred payment) till the effective date of trade.
+(13). Where an issue, pertaining to the spectrum proposed to be transferred is pending adjudication before any court of law, the seller shall ensure that its rights and liabilities are transferred to the buyer as per the procedure prescribed under the law and any such transfer of spectrum will be permitted only after the interest of the Licensor has been secured.
+(14). A Telecom Service Provider will be allowed to sell the spectrum through trading only after two years from the date of its acquisition through auction or spectrum trading or administratively assigned spectrum converted to tradable spectrum.
+It is clarified that in case of administratively assigned spectrum converted to tradable spectrum after paying the prescribed market value, period of two years will be counted from the effective date of assignment of spectrum.
+(15). A non-refundable transfer fee of one percent of the transactional amount or one percent of the prescribed market price, whichever is higher shall be imposed on all spectrum trade transactions, to cover the administrative charges incurred by Government in servicing the trade.
+The transfer fee shall be paid by the buyer (transferee) to the Government.
+The amount received from trading shall be part of Adjusted Gross Revenue (AGR) for the purpose of levy of License fee and Spectrum Usage Charges (SUC).
+(16). Frequency swapping/reconfiguration from within the assignments made to the licensees will not be treated as trading of spectrum.
+The conditions in the NIA shall govern frequency swapping/reconfiguration.
+(17). Existing rates as prescribed by the Government from time to time for Spectrum Usage Charge (SUC) shall continue to apply on spectrum held by the buyer which inter alia includes the spectrum acquired through trading.
+Spectrum acquired through spectrum trading will be treated akin to spectrum acquired through auction.
+(18). Both the licensees trading the spectrum shall jointly give a prior intimation for trading the right to use the spectrum at least 45 days before the proposed effective date of the trading.
+Both the licensees shall also give an undertaking that they are in compliance with all the terms and conditions of guidelines for spectrum trading and the licence conditions.
+In the event, it is established that any of the licensee was not in conformance with the terms and conditions of the guidelines for spectrum trading as well as the licence at the time of giving intimation for trading of right to use the spectrum, the Government is entitled to take appropriate action which inter-alia may include annulment of trading agreement.
+In December, 2013, the then Government had approved in-principle the spectrum trading but the detailed guidelines were not issued and therefore this policy could not be implemented.
+The issue was under active consideration of the present Government as this arrangement leads to greater competition; provides incentives for innovation; better data services, utilising state of art technologies, being available to consumers at cheaper tariffs; better choice to consumer etc.
+This also facilitates ease of doing business in India by allowing free play in the commercial decisions and leads to optimisation of resources.
+This will fulfil the present Government’s commitment of ease of doing business apart from improving the spectral efficiency and quality of service which is very essential to fulfil the dream of digital India.
+Background:-
+Historically, in most countries, the Telecom sector was a highly regulated sector where the Government used to decide the procedure for allocation of spectrum.
+Recognising the benefits of telecommunication facilities, over the past two decades, there has been growing consensus that because of significant increase in the demand for spectrum, the prevalent regulatory paradigm would prove inadequate to deal with the situation on hand.
+Licensed Service Providers need flexibility to respond quickly to changes in the market demand and technology.
+In India also, attention has been drawn to new ways of spectrum regulation, with increasing emphasis on evolving more flexible and market oriented approach to increase opportunities for efficient spectrum usage, for better services to consumers.
+In India the spectrum assignment is made for a period of 20 years.
+During this period, some operators are able to acquire subscribers and grow at a faster rate as compared to other operators.
+This results in the spectrum lying unutilised with some of the players while other operators face spectrum crunch as spectrum is a scare resource.
+In India, unlike other countries, the availability of the Spectrum is relatively small.
+Therefore, Spectrum Sharing and Spectrum Trading are necessary to make up the inadequacy.
+It will not only improve the quality of service and but also help address the issue of call drops.
+Spectrum trading allows parties to transfer their spectrum rights and obligations to another party.
+This allows better spectrum usages as the idle spectrum from the hands of one service provider gets transferred to the other service provider who is facing spectrum crunch.
+This also improves customer satisfaction and services of the service provider acquiring spectrum.

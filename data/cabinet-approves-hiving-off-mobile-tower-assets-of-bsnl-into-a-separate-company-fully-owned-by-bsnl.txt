@@ -1,0 +1,10 @@
+The Union Cabinet chaired by the Prime Minister Shri Narendra Modi has given its approval for hiving off mobile tower assets of Bharat Sanchar Nigam Limited (BSNL) into a separate company, fully owned by BSNL.
+This approval authorizes BSNL to monetize its telecom tower infrastructure with the formation of a separate subsidiary company.
+There are around 4,42,000 mobile towers in the country out of which more than 66,000 mobile tower are of BSNL.
+An independent, dedicated tower company of BSNL with a focused approach will lead to increasing of external tenancies and consequentially higher revenue for the new company.
+Background:
+The telecom tower industry has emerged as an independent business to harness the potential for sharing of infrastructure.
+The business model arose from the need to achieve economies of scale and to reduce capital investment costs for providing mobile services.
+The Department of Telecommunications (DoT) policy allows sharing of passive infrastructure i.e. the tower structure, Diesel Generator sets, battery units, power interface unit, air-conditioning etc., which has facilitated the growth of the telecom infrastructure industry.
+A tower infrastructure company essentially owns the passive infrastructure asset and leases it to telecom service providers enabling them to minimize duplication of investments and economize on costs of Operation and Maintenance (O&M), thereby improving profitability.
+Besides the captive model in BSNL and MTNL where the service provider owns their passive infrastructure also, there are three different business models within the telecom tower industry:- companies created by hiving off the tower assets portfolios of service providers into subsidiaries, companies established as independent joint venture entities by service providers jointly and companies promoted by specific service providers but established as independent entities with the promoter being the anchor tenant for the tower company.

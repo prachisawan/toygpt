@@ -1,0 +1,7 @@
+Signing of MoUs between CERT-In with its counterparts in Malaysia, Singapore, Japan
+The Union Cabinet chaired by the Prime Minister Shri Narendra Modi was today apprised of the Memorandum of Understandings (MoUs) signed between Indian Computer Emergency Response Team (CERT-In) with its counterparts in Malaysia, Singapore and Japan.
+Three MoUs have been signed on cooperation in Cyber Security and the details are follows:-
+(i) MoU between CERT-In of the Republic of India and CyberSecurity, Malaysia for Cooperation in the area of Cyber Security signed on 23rd November, 2015 in Kuala Lumpur, Malaysia during Prime Minister’s visit to Malaysia.
+(ii) MoU between CERT-In of the Republic of India and Singapore Computer Emergency Response Team (SingCERT), Cyber Security Agency (CSA) of the Republic of Singapore for Cooperation in the area of Cyber Security signed on 24th November, 2015 in Singapore during Prime Minister’s visit to Singapore.
+(iii) MoU between CERT-In and Japan Computer Emergency Response Team Coordination Center (JPCERT/CC) for Cooperation in the area of Cyber Security signed on 7th December, 2015 through diplomatic exchange and exchange of the signed MoU between the two parties completed by 22nd December, 2015.
+The MoUs related to Cyber Security will promote closer cooperation for exchange of knowledge and experience in detection, resolution and prevention of security related incidents between India and respective country.
