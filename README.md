@@ -54,6 +54,7 @@ To run this comfortably on consumer hardware (like an Apple Silicon MacBook), th
 | `n_embd` | **256** | Embedding workspace dimension |
 | `n_head` | **8** | Multi-head attention heads (32 dims per head) |
 | `n_layer` | **6** | Stacked transformer blocks |
+| `dropout` | **0.2** | Dropout rate for regularization |
 | **Total Parameters** | **5,226,880** | Combined parameter footprint |
 
 ```python
@@ -62,6 +63,7 @@ block_size = 128
 n_embd     = 256    
 n_head     = 8      
 n_layer    = 6      
+dropout    = 0.2    
 ```
 
 ---
@@ -78,6 +80,7 @@ By training directly on raw characters, the network starts with zero knowledge o
 
 1. **The spelling tax:** In early iterations, I experimented with a tiny footprint (`block_size = 64`, `n_embd = 128`). The cross-entropy loss aggressively flattened out around 1.38. Because the vocabulary spans both Latin characters and the Devanagari script, a massive chunk of the network's capacity was burned entirely on learning word boundaries and spelling. It didn't have enough residual "brain capacity" left to learn grammar, resulting in phonetically sound but completely hallucinated words.
 2. **Scaling the workspace:** To give the model structural breathing room, I scaled up to the current 6-layer configuration and pushed it through an 8,000-step optimization loop using the `mps` backend (Apple Silicon GPU acceleration). The loss successfully plummeted to a stable 1.10, signaling that the model had completely mastered spelling and was beginning to map vocabulary distribution.
+3. **Regularization & Gradient Stability:** To prevent the model from simply memorizing training sequences (overfitting) and to stabilize training, I introduced **20% Dropout** to the self-attention heads, multi-head projections, and feed-forward networks, and applied a **custom normal weight initialization** (`std=0.02`). This addition forced the model to learn robust grammatical and syntactic logic rather than rote spelling patterns.
 
 ---
 
@@ -115,14 +118,23 @@ Provide a prompt to watch the model autocomplete the narrative rhythm of the dat
 **Hindi Prompt Example:**
 ```text
 Prompt: मेरे प्यारे देशवासियों
-Output: मेरे प्यारे देशवासियों से जुड़े हुए हमने अपनी पूर्विंद्रासत के प्रति परिवार का नाम किया है, कितने ही हमारी सदियों पर बना सकता है। अब केंद्र बन गया है और इसलिए उस परिस्थिति में बाहर आता है और इसलिए आज हम सब करते हैं कि इन च...
+
+- Baseline Output (No Dropout): 
+मेरे प्यारे देशवासियों से जुड़े हुए हमने अपनी पूर्विंद्रासत के प्रति परिवार का नाम किया है, कितने ही हमारी सदियों पर बना सकता है। अब केंद्र बन गया है और इसलिए उस परिस्थिति में बाहर आता है और इसलिए आज हम सब करते हैं कि इन च...
+
+- Optimized Output (With Dropout & Init):
+मेरे प्यारे देशवासियों ने आदिवासियों को आगे बढ़ना चाहिए। इस व्यवस्था के लिए प्रतिबद्ध करना चाहिए। और उस प्रकार का प्रयास होता है और आप में करीब 30 लाख लोग से ज्यादा करना होगा। इसके लिए अगर हम क्या उनके बीज न करेंगे, उनके ल...
 ```
 
 **English Prompt Example:**
 ```text
 Prompt: friends
-Output: friendship between Indian and Finance of Assistance (IRC) share the strategic partner in the country.
-Today, we will take the strong countries to intericate investment in areas of all of information to the e...
+
+- Baseline Output (No Dropout): 
+friendship between Indian and Finance of Assistance (IRC) share the strategic partner in the country. Today, we will take the strong countries to intericate investment in areas of all of information to the e...
+
+- Optimized Output (With Dropout & Init):
+friendship as purchased by the Union Government has been allowed that the bottleneck on the country will poverty of the people of a literator. The Prime Minister announced that the significant programme for the poor...
 ```
 
 > [!NOTE]

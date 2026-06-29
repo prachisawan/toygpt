@@ -9,6 +9,7 @@ n_embd = 256
 n_head = 8          
 n_layer = 6         
 device = 'mps' if torch.backends.mps.is_available() else 'cpu'
+dropout = 0.2
 
 # 1. Load data to rebuild vocabulary map
 with open('input.txt', 'r', encoding='utf-8') as f:
@@ -29,12 +30,14 @@ class Head(nn.Module):
         self.query = nn.Linear(n_embd, head_size, bias=False)
         self.value = nn.Linear(n_embd, head_size, bias=False)
         self.register_buffer('tril', torch.tril(torch.ones(block_size, block_size)))
+        self.dropout = nn.Dropout(dropout)
     def forward(self, x):
         B,T,C = x.shape
         k, q, v = self.key(x), self.query(x), self.value(x)
         wei = q @ k.transpose(-2, -1) * (k.shape[-1]**-0.5)
         wei = wei.masked_fill(self.tril[:T, :T] == 0, float('-inf'))
         wei = F.softmax(wei, dim=-1)
+        wei = self.dropout(wei)
         return wei @ v
 
 class MultiHeadAttention(nn.Module):
@@ -42,13 +45,19 @@ class MultiHeadAttention(nn.Module):
         super().__init__()
         self.heads = nn.ModuleList([Head(head_size) for _ in range(num_heads)])
         self.proj = nn.Linear(head_size * num_heads, n_embd)
+        self.dropout = nn.Dropout(dropout)
     def forward(self, x):
-        return self.proj(torch.cat([h(x) for h in self.heads], dim=-1))
+        return self.dropout(self.proj(torch.cat([h(x) for h in self.heads], dim=-1)))
 
 class FeedForward(nn.Module):
     def __init__(self, n_embd):
         super().__init__()
-        self.net = nn.Sequential(nn.Linear(n_embd, 4 * n_embd), nn.ReLU(), nn.Linear(4 * n_embd, n_embd))
+        self.net = nn.Sequential(
+            nn.Linear(n_embd, 4 * n_embd),
+            nn.ReLU(),
+            nn.Linear(4 * n_embd, n_embd),
+            nn.Dropout(dropout),
+        )
     def forward(self, x): return self.net(x)
 
 class Block(nn.Module):
@@ -71,6 +80,16 @@ class GPTLanguageModel(nn.Module):
         self.blocks = nn.Sequential(*[Block(n_embd, n_head=n_head) for _ in range(n_layer)])
         self.ln_f = nn.LayerNorm(n_embd)
         self.lm_head = nn.Linear(n_embd, vocab_size)
+        
+        self.apply(self._init_weights)
+
+    def _init_weights(self, module):
+        if isinstance(module, nn.Linear):
+            torch.nn.init.normal_(module.weight, mean=0.0, std=0.02)
+            if module.bias is not None:
+                torch.nn.init.zeros_(module.bias)
+        elif isinstance(module, nn.Embedding):
+            torch.nn.init.normal_(module.weight, mean=0.0, std=0.02)
     def forward(self, idx, targets=None):
         B, T = idx.shape
         tok_emb = self.token_embedding_table(idx)
