@@ -48,23 +48,16 @@ graph LR
 
 To run this comfortably on consumer hardware (like an Apple Silicon MacBook), the configuration is constrained to a tight budget:
 
-| Hyperparameter | Value | Description |
-| :--- | :---: | :--- |
-| `block_size` | **128** | Maximum look-back context (in characters) |
-| `n_embd` | **256** | Embedding workspace dimension |
-| `n_head` | **8** | Multi-head attention heads (32 dims per head) |
-| `n_layer` | **6** | Stacked transformer blocks |
-| `dropout` | **0.2** | Dropout rate for regularization |
-| **Total Parameters** | **5,226,880** | Combined parameter footprint |
-
 ```python
 # Defined in transformer.py
-block_size = 128    
-n_embd     = 256    
-n_head     = 8      
-n_layer    = 6      
-dropout    = 0.2    
+block_size = 128    # Maximum look-back context (in characters)
+n_embd     = 256    # Embedding workspace dimension
+n_head     = 8      # Multi-head attention heads (32 dims per head)
+n_layer    = 6      # Stacked transformer blocks
+dropout    = 0.2    # Dropout rate for regularization
 ```
+
+The model has a combined parameter footprint of **5,226,880** total parameters.
 
 ---
 
